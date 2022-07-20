@@ -1,0 +1,51 @@
+#logo{
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: 10px;
+    border-color: black;
+    border-width:100px;
+    not working 
+    */
+}
+
+#food {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background{
+    background-color: beige;
+}
+
+.title{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    text-align: center;
+}   
+
+.heading{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    text-align: left;
+}
+
+#other_text{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+    list-style: none;
+}
